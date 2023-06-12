@@ -1,17 +1,17 @@
 # Exp-2 Create a commercial website using HTML & CSS.
-## AIM:
+## Aim:
 To create a commercial website using HTML & CSS.
-## PROCEDURE:
-### STEP 1:
+## Algorithm:
+### Step 1:
 Create basic outline for website using html. 
-### STEP 2:
+### Step 2:
 Create style part of the website using css.
-### STEP 3:
+### Step 3:
 Link the css file with html code using link tag
-### STEP 4:
+### Step 4:
 Run the code and check the webpage in an web browser.
-## PROGRAM:
-### HTML:
+## Program:
+### Html:
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -258,7 +258,7 @@ Run the code and check the webpage in an web browser.
     justify-content: center;
   }
 ```
-## OUTPUT:
+## Output:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX02/assets/93427303/44304d50-da72-4bdf-8ef2-90815c13525c)
-## RESULT:
+## Result:
 A commercial website using HTML & CSS has been created and output verified sucessfully.
